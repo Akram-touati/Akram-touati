@@ -6,6 +6,8 @@ I'm Akam TOUATI, an XR (Extended Reality) developer passionate about exploring t
 💻 Beyond XR, I'm fascinated by the intersection of computer vision and robotics. From object detection and tracking to autonomous navigation, I'm constantly exploring innovative ways to leverage vision-based systems for intelligent automation and enhanced human-machine interaction.
 
 🌟 When I'm not coding, you'll find me tinkering with hardware, experimenting with new sensors, or simply lost in the latest research papers on spatial computing and machine perception. I thrive on collaboration and am always eager to connect with fellow enthusiasts and pioneers in the XR, AR, CV, and robotics communities.
+Here are some of my key skills:
+# skills:
 
 * **Programming:** 💻 C#, C++, Python, Java, JavaScript, Node.js, MATLAB, SQL
 
