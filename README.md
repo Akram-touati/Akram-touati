@@ -1,4 +1,5 @@
-👋 Hey there! I'm Akam TOUATI, an XR (Extended Reality) developer passionate about exploring the realms of VR, AR, computer vision, and robotics 🚀. With a keen eye for immersive experiences and a love for cutting-edge technology, I'm on a mission to push the boundaries of virtual and augmented realities.
+#👋 Hey there!
+I'm Akam TOUATI, an XR (Extended Reality) developer passionate about exploring the realms of VR, AR, computer vision, and robotics 🚀. With a keen eye for immersive experiences and a love for cutting-edge technology, I'm on a mission to push the boundaries of virtual and augmented realities.
 
 🔭 Currently, I'm diving deep into the world of XR development, harnessing the power of Unity, Unreal Engine, and various AR frameworks to create captivating experiences. Whether it's building interactive simulations, crafting immersive storytelling, or enhancing real-world environments with digital overlays, I'm all about bringing imagination to life.
 
